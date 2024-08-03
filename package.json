@@ -5,7 +5,8 @@
   "description": "A Desktop App With JavaScript &amp; Electron",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "dev": "npx electronmon ."
   },
   "author": "Charles Chen",
   "license": "MIT",
